@@ -1,5 +1,9 @@
 # Эффекты самоорганизации в рекомендательных системах
 
+Автор – [Дементьев С.А.](https://github.com/sdem3),
+Консультант - [Веприков А.С.](https://github.com/Vepricov),
+Эксперт - [Хританков А.С.](https://old.mipt.ru/education/chairs/parallelcomputing/persons/chritankov.php)
+
 ## Assets
 
 - [LinkReview](link_review.md)
