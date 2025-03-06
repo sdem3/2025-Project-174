@@ -16,4 +16,4 @@ Training a neural network involves searching for the minimum point of the loss f
 
 ## Licence
 
-Our project is MIT licensed. See [LICENSE](LICENSE) for details.
+Our project is MIT licensed. See [license](LICENSE) for details.
