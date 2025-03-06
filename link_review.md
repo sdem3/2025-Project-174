@@ -8,6 +8,5 @@
 | Key article 2.1 | - | - | -| - | - | - |
 | Basic theory | - | - | - | - | - | - |
 | Advanced theory |- | - | - | - | - | - |
-
 | Experimental evidence | - | - | - | - | - | - |
 | Competitors | - | - |- | - | - | - |
