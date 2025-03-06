@@ -2,7 +2,7 @@
 
 ## Assets
 
-- [LinkReview](LINKREVIEW.md)
+- [LinkReview](link_review.md)
 - [Code](code)
 - [Paper](paper)
 - [Slides](slides)
